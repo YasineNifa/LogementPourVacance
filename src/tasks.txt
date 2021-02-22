@@ -1,0 +1,10 @@
+Material UI
+React Hooks
+React Router
+Firebase Hosting
+Firebox
+Responsive AF = flexbox
+
+object-fir:contain; keep the original ration so that the image des not strach
+align-items:center pour centrer tous les items d'un component
+z-index: 100; to be in top and cover everything
