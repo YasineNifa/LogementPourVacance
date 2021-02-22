@@ -8,3 +8,9 @@ Responsive AF = flexbox
 object-fir:contain; keep the original ration so that the image des not strach
 align-items:center pour centrer tous les items d'un component
 z-index: 100; to be in top and cover everything
+
+
+To do the date picker
+install : npm i react-date-range
+npm i date-fns
+just follow the headlines in Search.js
